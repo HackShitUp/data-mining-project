@@ -7,6 +7,13 @@ Project for data-mining.
 #### Made by Josh Choi, Helen Dempsey, Ben Vechio, Claudia Westby
 
 # Objective
+The objective of this project is the following:
 ```
 Prediction task is to determine whether a person makes over 50K a year. You should use census-income.data to train your classifier and use census-income.test to evaluate the performance of your learning algorithm.
+```
+Our algorithm manages the following inconsistencies:
+```
+– Handling imbalanced dataset (aka different amounts of positive and negative labels).
+– Proper imputation methods for missing values.
+– Different treatment of various type of features: continuous, discrete, categorical, etc.
 ```
