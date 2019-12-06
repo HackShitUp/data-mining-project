@@ -1,10 +1,10 @@
 # data-mining-project
 Project for data-mining.
 
-#### Yijun Zhao
-#### Data Mining
-#### 12/6/19
-#### Made by Josh Choi, Helen Dempsey, Ben Vecchio, Claudia Westby
+Yijun Zhao
+Data Mining
+12/6/19
+Made by Josh Choi, Helen Dempsey, Ben Vecchio, Claudia Westby
 
 # Objective
 The objective of this project is the following:
