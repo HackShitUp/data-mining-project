@@ -33,6 +33,8 @@ Ensure that all files are within the same folder.
 3. Open final_project.ipynb
 4. In the toolbar, select Cell and "Run All"
 
+---
+
 NOTES: 
 
 1. The message "Using TensorFlow backend" is not an error but simply an information message.
