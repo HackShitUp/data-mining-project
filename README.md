@@ -33,4 +33,7 @@ Ensure that all files are within the same folder.
 3. Open final_project.ipynb
 4. In the toolbar, select Cell and "Run All"
 
-NOTE: The message "Using TensorFlow backend" is not an error but simply an information message.
+NOTES: 
+
+1. The message "Using TensorFlow backend" is not an error but simply an information message.
+2. Values output on your run may be different from the values recorded in our report. This is due to SMOTE's random selection.
