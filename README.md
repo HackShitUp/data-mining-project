@@ -24,7 +24,7 @@ Ensure that all files are within the same folder.
 ### In Terminal/Command Line:
 
 1. ```$ cd ``` to whichever directory where the files are located
-2. Run command ```$ python3 income-classifier.py ```
+2. Run command ```$ python3 income_classifier.py ```
 
 ### In Anaconda Navigator:
 
