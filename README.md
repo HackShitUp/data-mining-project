@@ -24,7 +24,8 @@ Have the most up-to-date version of Python or Anaconda installed.
 
 In Terminal:
 
-1. python final_project.py
+1. Run command 
+``` python3 final_project.py ```
 
 In Anaconda Navigator:
 
