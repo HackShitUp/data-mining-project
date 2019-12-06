@@ -21,14 +21,16 @@ Our algorithm manages the following inconsistencies:
 Have the most up-to-date version of Python or Anaconda installed.
 Ensure that all files are within the same folder.
 
-In Terminal:
-If simply downloading .zip
+### In Terminal:
 
-1. ```$ cd Downloads``` or to directory where files are located
+1. ```$ cd ``` to whichever directory where the files are located
 2. Run command ```$ python3 final_project.py ```
 
-In Anaconda Navigator:
+### In Anaconda Navigator:
 
 1. Launch Jupyter Notebook
-2. Open final_project.ipynb
-3. In the toolbar, select Cell and "Run All"
+2. Navigate to folder where files are located
+3. Open final_project.ipynb
+4. In the toolbar, select Cell and "Run All"
+
+NOTE: The message "Using TensorFlow backend" is not an error but simply an information message.
