@@ -33,7 +33,7 @@ Latest version of ```Python```.
 
 # Run Instructions
 1. ```cd``` to the root directory .
-2. Ensure all datasets are in the "data" folder.
+2. Ensure all datasets are in the same folder.
 2. Run the following command:
 ```
 python income_classifier.py
