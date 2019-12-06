@@ -17,3 +17,17 @@ Our algorithm manages the following inconsistencies:
 – Proper imputation methods for missing values.
 – Different treatment of various type of features: continuous, discrete, categorical, etc.
 ```
+# To run:
+Have the most up-to-date version of Python or Anaconda installed.
+ 
+* Make sure all files are within the same folder.
+
+In Terminal:
+
+1. python final_project.py
+
+In Anaconda Navigator:
+
+1. Launch Jupyter Notebook
+2. Open final_project.ipynb
+3. In the toolbar, select Cell and "Run All"
