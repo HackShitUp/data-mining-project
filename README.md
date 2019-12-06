@@ -17,11 +17,11 @@ Our algorithm manages the following inconsistencies:
 – Proper imputation methods for missing values.
 – Different treatment of various type of features: continuous, discrete, categorical, etc.
 ```
-## To run:
+## To run
 Have the most up-to-date version of Python or Anaconda installed.
 Ensure that all files are within the same folder.
 
-### In Terminal:
+### In Terminal/Command Line:
 
 1. ```$ cd ``` to whichever directory where the files are located
 2. Run command ```$ python3 final_project.py ```
