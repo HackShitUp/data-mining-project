@@ -19,13 +19,13 @@ Our algorithm manages the following inconsistencies:
 ```
 # To run:
 Have the most up-to-date version of Python or Anaconda installed.
- 
-* Make sure all files are within the same folder.
+Ensure that all files are within the same folder.
 
 In Terminal:
+If simply downloading .zip
 
-1. Run command 
-``` python3 final_project.py ```
+1. ```$ cd Downloads``` or to directory where files are located
+2. Run command ```$ python3 final_project.py ```
 
 In Anaconda Navigator:
 
